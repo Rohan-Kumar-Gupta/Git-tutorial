@@ -1,0 +1,8 @@
+git add -A
+       Stages All
+
+git add .
+       Stages new and modified, Without Deleted
+
+git add -u
+       Stages modified and deleted, without new
